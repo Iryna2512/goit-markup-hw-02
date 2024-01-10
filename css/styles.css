@@ -1,0 +1,60 @@
+header {
+    background-color: #E7E9FC;
+}
+
+.page-footer {
+    background-color: #2E2F42;
+}
+
+.copyright-text {
+    color: #F4F4FD;
+}
+
+.socialmedia {
+    color: #FFFFFF;
+}
+
+.page-section {
+    background-color: #2E2F42B2;
+}
+
+.page-section1 {
+    background-color: #F4F4FD;
+}
+
+.page-section2 {
+    background-color: #F4F4FD;
+}
+
+.page-section3 {
+    background-color: #F4F4FD;
+}
+
+.page-title {
+    color: black;
+}
+
+button {
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+}
+
+.title {
+    color: #2E2F42;
+}
+
+.sectoin-titile {
+    color: #434455;
+}
+
+.sectoin-text {
+    color: #434455;
+}
+
+.link {
+    color: #2E2F42;
+}
+
+.link:hover {
+    color: #404BBF;
+}
