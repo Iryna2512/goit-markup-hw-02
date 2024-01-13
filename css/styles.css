@@ -1,3 +1,8 @@
+body {
+    font-family: Roboto, sans-serif;
+    color #434455;
+}
+
 .menu-header {
     background-color: #FFFFFF;
 }
@@ -27,4 +32,9 @@
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.32px;
+}
+
+.menu-info-link {
+    text-decoration: none;
+    color: #434455;
 }
