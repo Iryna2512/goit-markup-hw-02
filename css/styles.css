@@ -1,60 +1,45 @@
-header {
-    background-color: #E7E9FC;
+.menu-header {
+    background-color: #FFFFFF;
 }
 
-.page-footer {
-    background-color: #2E2F42;
-}
-
-.copyright-text {
-    color: #F4F4FD;
-}
-
-.socialmedia {
-    color: #FFFFFF;
-}
-
-.page-section {
-    background-color: #2E2F42B2;
-}
-
-.page-section1 {
-    background-color: #F4F4FD;
-}
-
-.page-section2 {
-    background-color: #F4F4FD;
-}
-
-.page-section3 {
-    background-color: #F4F4FD;
-}
-
-.page-title {
-    color: black;
-}
-
-button {
-    background-color: #4D5AE5;
-    color: #FFFFFF;
-}
-
-.title {
+.menu-logo {
     color: #2E2F42;
+    text-decoration: none;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.16;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
 }
 
-.sectoin-titile {
+.accent {
+    color: #4D5AE5;
+}
+
+.menu-link {
+    text-decoration: none;
+    color: #2E2F42;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+}
+
+.menu-link:hover,
+.menu-link:active,
+.menu-link:focus {
+    #404BBF
+}
+
+.menu-info-link {
+    text-decoration: none;
     color: #434455;
 }
 
-.sectoin-text {
-    color: #434455;
-}
-
-.link {
-    color: #2E2F42;
-}
-
-.link:hover {
-    color: #404BBF;
+.menu-info-link:hover {
+    #404BBF;
 }
