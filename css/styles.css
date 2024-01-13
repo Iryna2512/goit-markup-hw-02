@@ -28,18 +28,3 @@
     line-height: 1.5;
     letter-spacing: 0.32px;
 }
-
-.menu-link:hover,
-.menu-link:active,
-.menu-link:focus {
-    #404BBF
-}
-
-.menu-info-link {
-    text-decoration: none;
-    color: #434455;
-}
-
-.menu-info-link:hover {
-    #404BBF;
-}
