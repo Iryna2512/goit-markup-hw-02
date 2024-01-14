@@ -67,6 +67,10 @@ body {
     color: #404BBF;
 }
 
+.info {
+    font-style: normal;
+}
+
 .menu-info-link {
     text-decoration: none;
     color: #434455;
@@ -74,7 +78,6 @@ body {
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.32px;
-    font-style: normal;
 }
 
 .section-banner {
@@ -106,8 +109,8 @@ h3 {
     letter-spacing: 0.4px;
 }
 
-.list,
-.list-portfolio {
+.list>li,
+.list-portfolio>li {
     background-color: #FFFFFF;
 }
 
