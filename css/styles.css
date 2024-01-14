@@ -1,6 +1,7 @@
 body {
     font-family: Roboto, sans-serif;
     color: #434455;
+    background-color: #FFF;
 }
 
 .menu-header {
@@ -81,7 +82,7 @@ body {
     color: #404BBF;
 }
 
-ul h2 {
+h2 {
     color: #2E2F42;
     font-size: 36px;
     font-weight: 700;
@@ -109,19 +110,6 @@ ul {
     list-style-type: none;
 }
 
-.section-no-title {
-    background-color: #FFF;
-}
-
-.sectoin-our-team {
-    background-color: #F4F4FD;
-}
-
-.section-Our-Portfolio {
-    background-color: #FFF;
-    ;
-}
-
 .section-footer {
     background-color: #2E2F42;
     color: #F4F4FD;
@@ -136,4 +124,8 @@ ul {
     line-height: 1.1;
     letter-spacing: 0.54px;
     text-transform: uppercase;
+}
+
+.section-our-team {
+    background-color: #F4F4FD;
 }
