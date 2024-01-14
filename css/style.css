@@ -63,8 +63,3 @@ body {
     background-color: #4D5AE5;
     color: #FFFFFF;
 }
-
-.button:hover,
-.button:focus {
-    #404BBF;
-}
