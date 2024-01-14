@@ -83,7 +83,6 @@ body {
 
 ul h2 {
     color: #2E2F42;
-    font-family: Roboto;
     font-size: 36px;
     font-weight: 700;
     line-height: 1.1;
@@ -91,7 +90,7 @@ ul h2 {
     text-transform: capitalize;
 }
 
-ul h3 {
+h3 {
     color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
@@ -99,7 +98,7 @@ ul h3 {
     letter-spacing: 0.4px;
 }
 
-ul p {
+p {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
@@ -107,15 +106,20 @@ ul p {
 }
 
 ul {
-    list-style: none;
+    list-style-type: none;
 }
 
 .section-no-title {
-    background-color: #FFFFFF;
+    background-color: #FFF;
 }
 
 .sectoin-our-team {
     background-color: #F4F4FD;
+}
+
+.section-Our-Portfolio {
+    background-color: #FFF;
+    ;
 }
 
 .section-footer {
